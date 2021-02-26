@@ -1,6 +1,6 @@
+## Cimri Frontend Service
 
-
-## About The Project
+### About The Project
 
 The project is a example e-commerce web application.The project includes:
 
@@ -8,13 +8,13 @@ The project is a example e-commerce web application.The project includes:
 - Product Listing and product detail Page
 - It is responsive.
 
-## Built With
+### Built With
 
 - [React](https://reactjs.org)
 - [NextJS](https://nextjs.org/)
 - [Heroku](https://dashboard.heroku.com/)
 
-## Installation
+### Installation
 
 1. Clone the repo and change the directory
 
